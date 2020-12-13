@@ -5,4 +5,5 @@
  
  # Results
  epochs=15
+ 
  I got accuracy of 100% for the images which had constant and stable background.
